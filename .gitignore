@@ -1,0 +1,25 @@
+# Ignore built files and directories
+/dist
+/node_modules
+
+# Ignore TypeScript configuration files
+/tsconfig.json
+/tsconfig.build.json
+
+# Ignore environment variables file
+/.env
+
+# Ignore editor-specific files and directories
+.vscode
+/.idea
+
+# Ignore logs
+/logs
+
+# Ignore npm debugging logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore macOS files
+.DS_Store
